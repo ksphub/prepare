@@ -74,6 +74,9 @@ CMD ["node", "app.js"]
 
 By following these concepts and utilizing Docker's tools, you can streamline the development, deployment, and scaling of applications, making your workflow more efficient and reliable.
 
+Containerization is a lightweight form of virtualization that involves packaging an application and its dependencies together into a container. Containers provide a standardized unit of software that can run consistently across various computing environments.
+
+Virtualization is a technology that allows you to create multiple simulated environments or dedicated resources from a single physical hardware system. This technology is foundational in modern computing, enabling more efficient use of physical hardware resources and providing flexibility in how computing environments are managed and deployed.
 
 Virtualization vs. Containerization
 
