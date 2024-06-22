@@ -6,3 +6,14 @@ Virtualization involves creating multiple virtual machines on a single physical 
 Containerization (e.g., Docker) involves encapsulating an application and its dependencies into containers. Containers share the host OS kernel, making them more lightweight and faster to start compared to VMs.
 
 
+Virtualization:
+
+Involves running multiple operating systems on a single physical machine.
+Each VM includes a full OS instance, leading to higher resource usage.
+Provides strong isolation between VMs.
+
+Containerization:
+
+Involves running multiple applications in isolated user spaces (containers) on a single OS.
+Containers share the host OS kernel, leading to lower overhead and faster startup times.
+Provides lighter isolation compared to VMs.
