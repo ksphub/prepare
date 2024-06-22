@@ -1,0 +1,8 @@
+Jun 22, 2024
+
+Virtualization vs. Containerization
+
+Virtualization involves creating multiple virtual machines on a single physical machine. Each VM includes a full operating system instance, making them heavier in terms of resource usage.
+Containerization (e.g., Docker) involves encapsulating an application and its dependencies into containers. Containers share the host OS kernel, making them more lightweight and faster to start compared to VMs.
+
+
